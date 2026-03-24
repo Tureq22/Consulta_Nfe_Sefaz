@@ -1,0 +1,18 @@
+# Ambientes Virtuais Python
+venv/
+env/
+.env
+
+# Arquivos do Certificado (MUITO IMPORTANTE)
+certificados/
+*.pfx
+*.p12
+
+# Arquivos gerados pelo sistema (Logs e Relatórios)
+ultimo_nsu.txt
+*.xlsx
+*.csv
+
+# Cache do Python
+__pycache__/
+*.pyc
